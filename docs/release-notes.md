@@ -13,15 +13,15 @@ During the upgrade process, both the Connector and the EM Plugin must be upgrade
 **CONNUTIL-644**    
 					Add PATCH function to connector.   
 **CONNUTIL-647**    
-					Corrected typo in application/octet-stream in subtype drop-down list.
+					Corrected typo in application/octet-stream in subtype drop-down list.   
 **CONNUTIL-648**    
-					Support json patch media type for POST and PUT functions.
+					Support json patch media type for POST and PUT functions.   
 **CONNUTIL-651**    
-					Corrected octet streaming file upload for POST & PUT functions.
-					Add header logging.
-					Corrected POST function using application/json-patch+json media type.
-					adjusted multi-part file upload.
-					updated software libraries. 
+					Corrected octet streaming file upload for POST & PUT functions.  \
+					Add header logging.  \
+					Corrected POST function using application/json-patch+json media type.  \
+					Adjusted multi-part file upload.  \
+					Updated software libraries.
 
 ### Upgrade Considerations
 
